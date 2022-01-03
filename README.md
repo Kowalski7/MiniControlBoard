@@ -8,8 +8,8 @@
 <h2>Features:</h2>
 <ul>
     <li>Compatible with all Android phones: the mobile app requires Android 2.2 or higher making it compatible with most smartphones</li>
-    <li>Layout designer: easily create a layout that fits your needs</li>
-    <li>Icon gallery: all icons are you use can be stored in the internal gallery for quick access and management later</li>
+    <li>Layout designer and manager: easily create multiple layouts that fit any occasion</li>
+    <li>Icon gallery: all icons can be stored in the internal gallery for quick access and management later</li>
 </ul>
 <h2>Getting started:</h2>
 <p>
