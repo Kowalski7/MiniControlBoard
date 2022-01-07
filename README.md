@@ -21,4 +21,7 @@
 &nbsp;&nbsp;&nbsp;6. When you're done, click "Save" and then click your new profile and then on "Select". <br />
 &nbsp;&nbsp;&nbsp;7. Start the server by clicking on the "Start server" button. <br />
 &nbsp;&nbsp;&nbsp;8. Click the little globe icon next to the "Start server" button in order to view the server's webpage. That page will guide you on the installation and configuration of the mobile app. <br />
-</div>
+</p>
+<p>
+	For a more detailed guide, check out the <a href="https://raw.githubusercontent.com/Kowalski7/MiniControlBoard/main/extras/User_Manual.pdf">user manual</a>.
+</p>
